@@ -58,4 +58,4 @@ for pdb_file in tqdm(pdb_files, desc="Converting PDB to PDBQT"):
     os.remove(pdb_file)
 os.chdir("..")
 print("done")
-print("Writed by La Ode Aman, laode_aman@ung.ac.id")
+print("The script written by La Ode Aman, laode_aman@ung.ac.id")
