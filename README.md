@@ -1,5 +1,5 @@
 # bigsdf2pdbqt
-File database small molecules biasanya berada dalam format sdf. Misalnya database dari Zinc. Database tersebut mengandung banyak small molecules. Skrip ini berguna untuk automatisasi konversi database small molecules format sdf tersebut dalam 1 atau beberapa file ke dalam pdbqt setiap molekul. 
+File database small molecules biasanya berada dalam format sdf. Misalnya database dari Zinc. Database tersebut mengandung banyak small molecules. Skrip ini berguna untuk automatisasi konversi database  1 atau beberapa file small molecules format sdf menjadi pdbqt. 
 
 1. Buat direktori kerja
 2. Tempatkan file-file database dalam format sdf pada direktori kerja.
