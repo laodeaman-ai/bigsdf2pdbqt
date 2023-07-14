@@ -5,7 +5,7 @@ Exp: /home/arga/MGLTools-1.5.6/MGLToolsPckgs/AutoDockTools/Utilities24
 
 (2) Put youf sdf database file(s) in current directory.
 
-(3) nd then execute in terminal:
+(3) And then execute in terminal:
 
 python bigsdf2pdbqt.py, or
 
